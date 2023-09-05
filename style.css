@@ -30,8 +30,8 @@ body{
     justify-content: space-between;
     padding: 0 10px;
     border-bottom-color: rgb(128, 128, 128, 0.4);
-    position: stickyf;
-    /* z-index: 5; */
+    position: fixed;
+    top: 0;
 }
 
 .product > p{
